@@ -1,0 +1,17 @@
+Sample Input
+
+10
+10
+
+Sample Output
+
+45°
+
+
+
+ANSWER:
+
+import math
+AB=int(input())
+BC=int(input())
+print(round(math.degrees(math.atan(AB/BC))),chr(176),sep='')
