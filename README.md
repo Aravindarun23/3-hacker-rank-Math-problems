@@ -6,3 +6,4 @@
  4) Mod Divmod
  5) power-mod
  6) integers come in all sizes
+ 7) Triangle quest 1
