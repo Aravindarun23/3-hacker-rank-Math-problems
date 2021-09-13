@@ -1,0 +1,18 @@
+Sample Input
+
+  1+2j
+
+Sample Output
+
+ 2.23606797749979 
+ 1.1071487177940904
+
+
+
+ANSWER::
+ 
+ import cmath
+c=complex(input())
+v=cmath.polar(c)
+print(v[0])
+print(v[1])
