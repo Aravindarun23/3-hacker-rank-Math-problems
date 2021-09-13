@@ -1,0 +1,20 @@
+Sample Input
+
+177
+10
+
+Sample Output
+
+17
+7
+(17, 7)
+
+
+ANSWER::
+
+a=int(input())
+b=int(input())
+v=divmod(a,b)
+print(v[0])
+print(v[1])
+print(v)
