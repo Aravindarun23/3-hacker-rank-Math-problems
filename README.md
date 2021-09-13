@@ -4,3 +4,4 @@
  2) find angle MBC
  3) Triangle quest 2
  4) Mod Divmod
+ 5) power-mod
